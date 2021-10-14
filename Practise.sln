@@ -11,9 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T02. Sleepy Tom Cat", "T02.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T01. Agency Profit", "T01. Agency Profit\T01. Agency Profit.csproj", "{23D23615-DD92-4261-AFFA-340148CF4BA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T02. Add Bags", "T02. Add Bags\T02. Add Bags.csproj", "{4D9D7113-930C-45FD-9939-CD7D401987CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T02. Add Bags", "T02. Add Bags\T02. Add Bags.csproj", "{4D9D7113-930C-45FD-9939-CD7D401987CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T03. Aluminum Joinery", "T03. Aluminum Joinery\T03. Aluminum Joinery.csproj", "{B5B8E73C-F8C3-4C7C-864D-8E253DFB001E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "T03. Aluminum Joinery", "T03. Aluminum Joinery\T03. Aluminum Joinery.csproj", "{B5B8E73C-F8C3-4C7C-864D-8E253DFB001E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T04. Balls", "T04. Balls\T04. Balls.csproj", "{E38F6461-1192-4DC3-AD0E-7D2950B711D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T05. Best Player", "T05. Best Player\T05. Best Player.csproj", "{665D00BA-2DD7-48E2-BB67-0A4E0726CEC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{B5B8E73C-F8C3-4C7C-864D-8E253DFB001E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5B8E73C-F8C3-4C7C-864D-8E253DFB001E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5B8E73C-F8C3-4C7C-864D-8E253DFB001E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E38F6461-1192-4DC3-AD0E-7D2950B711D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E38F6461-1192-4DC3-AD0E-7D2950B711D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E38F6461-1192-4DC3-AD0E-7D2950B711D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E38F6461-1192-4DC3-AD0E-7D2950B711D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{665D00BA-2DD7-48E2-BB67-0A4E0726CEC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{665D00BA-2DD7-48E2-BB67-0A4E0726CEC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{665D00BA-2DD7-48E2-BB67-0A4E0726CEC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{665D00BA-2DD7-48E2-BB67-0A4E0726CEC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
